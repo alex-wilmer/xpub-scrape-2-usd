@@ -8,3 +8,6 @@ I couldn't find an API for this and I haven't scraped anything in a while.
     node dest/app
 
 Navigate to `localhost:8081/getPrice`
+
+Be sure to run `gulp` from the root directory
+if you'd like to me changes to to the src js
