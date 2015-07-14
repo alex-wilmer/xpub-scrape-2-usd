@@ -12,4 +12,4 @@ Navigate to `localhost:8081/getPrice`
 Be sure to run `gulp` from the root directory
 if you'd like to make changes to `src/app.js`
 
-Have fun!
+Have fun!!
