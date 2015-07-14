@@ -1,0 +1,16 @@
+{
+  "name": "walletPrice",
+  "version": "0.0.1",
+  "description": "blockchain extended public key scrape",
+  "main": "app.js",
+  "author": "azium",
+  "dependencies": {
+    "express": "latest",
+    "request": "latest",
+    "cheerio": "latest"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0"
+  }
+}
